@@ -2,10 +2,12 @@
 A minimal list to boost quality and productivity.
 
 ## writing
-- tools: word online
+- cooperative writing (doc docx files): word online od google docs
 - templates: link to protocol/article template somewhere, preferably 
-  integrated with word online
+  integrated with cooperative writing tools
 - [zotero](https://zotero.org/): references keeping 
+- [deepl](https://www.deepl.com): traduzione
+
 
 ## data collection and handling
 - how to [collect data with excel](https://doi.org/10.5281/zenodo.7784704)
