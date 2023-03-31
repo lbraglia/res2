@@ -1,5 +1,5 @@
 # Research resources
-A minimal list to boost quality and productivity
+A minimal list to boost quality and productivity.
 
 ## writing
 - tools: word online
@@ -17,3 +17,7 @@ A minimal list to boost quality and productivity
   creation for referencing
 - project repository on github: todo
 
+## papers
+- scihub
+- [scihubot](telegram.me/scihubot): bot telegram di interfaccia a
+  SciHub per papers (fornire DOI)
