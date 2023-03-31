@@ -13,6 +13,7 @@ A minimal list to boost quality and productivity
   excel dataset with data validation easily
 
 ## hosting
-- [zenodo](https://zenodo.org/): document upload and DOI/referencing creation
+- [zenodo](https://zenodo.org/): document upload, availability and DOI
+  creation for referencing
 - project repository on github: todo
 
