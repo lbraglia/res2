@@ -5,9 +5,8 @@ A minimal list to boost quality and productivity
 - tools: word online
 - templates: link to protocol/article template somewhere, preferably 
   integrated with word online
-- references keeping: zotero
-  fare da qualche parte una bibliografia?
-- referencing creation: [zenodo](https://zenodo.org/)
+- [zotero](https://zotero.org/): references keeping 
+- [zenodo](https://zenodo.org/): document upload and DOI/referencing creation
 
 ## data collection and handling
 - how to [collect data with excel](https://doi.org/10.5281/zenodo.7784704)
